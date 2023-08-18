@@ -1,5 +1,10 @@
 # Formula-1-Cloud-Data-Platform
 
+## Solution Architechture of platform:
+
+![image](https://github.com/ritz-16/Formula-1-Cloud-Data-Platform/assets/79714302/204160e2-ed22-4cbd-bb5d-5802e3c1933d)
+
+
 ## Ingestion Automation Pipeline:
 
 ![image](https://github.com/ritz-16/Formula-1-Cloud-Data-Platform/assets/79714302/beb201ab-165e-4ac6-b981-628687f40a7c)
