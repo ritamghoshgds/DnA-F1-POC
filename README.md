@@ -1,4 +1,4 @@
-# Formula-1-Cloud-Data-Platform
+# DnA F1 Solution
 
 ## Solution Architechture of platform:
 
